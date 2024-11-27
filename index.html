@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>anshu graphic designer </title>
+  <style>
+    /* General Reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to bottom, #f5f7fa, #e2eafc);
+      color: #333;
+      overflow-x: hidden;
+    }
+
+    /* Header */
+    header {
+      background-color: #fff;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      padding: 15px 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 1000;
+      animation: slideDown 1s ease-in-out;
+    }
+
+    header .logo {
+      font-size: 24px;
+      font-weight: bold;
+      color: #333;
+    }
+
+    nav ul {
+      list-style: none;
+      display: flex;
+      gap: 20px;
+    }
+
+    nav ul li a {
+      text-decoration: none;
+      color: #333;
+      font-weight: 500;
+      transition: color 0.3s ease-in-out;
+    }
+
+    nav ul li a:hover {
+      color: #ff4d4d;
+    }
+
+    .btn {
+      padding: 10px 20px;
+      background-color: #ff4d4d;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s ease-in-out, transform 0.3s;
+    }
+
+    .btn:hover {
+      background-color: #e63939;
+      transform: scale(1.1);
+    }
+
+    /* Hero Section */
+    .hero-section {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 120px 100px 50px; /* Adjusted for fixed header */
+      background: linear-gradient(to right, #fff, #f7f9fc);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-text {
+      max-width: 50%;
+      animation: fadeInLeft 1.5s ease-in-out;
+    }
+
+    .hero-text h1 {
+      font-size: 36px;
+      color: #002766;
+      animation: textGlow 2s infinite alternate;
+    }
+
+    .hero-text p {
+      font-size: 16px;
+      line-height: 1.6;
+      margin: 20px 0;
+      color: #555;
+      animation: fadeIn 2s ease-in-out;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 15px;
+    }
+
+    .hero-buttons a {
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: bold;
+      padding: 10px 20px;
+      border-radius: 5px;
+      border: 1px solid #002766;
+      color: #002766;
+      transition: all 0.3s ease;
+    }
+
+    .hero-buttons a:hover {
+      background-color: #002766;
+      color: #fff;
+      transform: translateY(-5px);
+    }
+
+    .hero-image {
+      animation: fadeInRight 1.5s ease-in-out;
+    }
+
+    .hero-image img {
+      border-radius: 10px;
+      max-width: 300px;
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+      animation: float 3s infinite ease-in-out;
+    }
+
+    /* Wave Background */
+    .wave {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 200px;
+      background: url('c:\Users\ANSH\Pictures\vip photo.jfif') no-repeat;
+      background-size: cover;
+      animation: waveMotion 5s infinite linear;
+    }
+
+    /* Animations */
+    @keyframes slideDown {
+      from {
+        transform: translateY(-100%);
+      }
+      to {
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+
+    @keyframes fadeInLeft {
+      from {
+        opacity: 0;
+        transform: translateX(-50px);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+    @keyframes fadeInRight {
+      from {
+        opacity: 0;
+        transform: translateX(50px);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+
+    @keyframes textGlow {
+      from {
+        text-shadow: 0 0 10px #ff4d4d, 0 0 20px #ff4d4d, 0 0 30px #ff4d4d;
+      }
+      to {
+        text-shadow: 0 0 5px #ff4d4d, 0 0 15px #ff4d4d, 0 0 25px #ff4d4d;
+      }
+    }
+    @keyframes float {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-15px);
+      }
+    }
+
+    @keyframes waveMotion {
+      from {
+        background-position-x: 0;
+      }
+      to {
+        background-position-x: 1000px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">Portfolio</div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="https://www.instagram.com/ansh_tech_yt/">Contact</a></li>
+      </ul>
+    </nav>
+    <a href="https://anshu908.github.io/contact-card/" class="btn">Get Free Consultation</a>
+  </header>
+  <section class="hero-section">
+    <div class="hero-text">
+      <h1>I'm graphic Designer <span style="font-weight: bold;">Anshu</span></h1>
+      <p>
+        "Crafting unique designs that tell powerful stories.
+Transforming concepts into visual masterpieces.
+With a keen eye for detail, I bring ideas to life.
+Every project is an opportunity to innovate and inspire.
+Design is not just what I do—it's who I am."
+
+
+
+
+      </p>
+      <div class="hero-buttons">
+        <a href="https://docs.google.com/document/d/1og-rU5zYLnQPPUNqHi1sYLEZMToci3oryDy7AVUm6qQ/edit?usp=drive_link">Learn More</a>
+        <a href="https://docs.google.com/document/d/1og-rU5zYLnQPPUNqHi1sYLEZMToci3oryDy7AVUm6qQ/edit?usp=drive_link" style="background-color: #002766; color: #fff;">Hire Me</a>
+      </div>
+    </div>
+    <div class="hero-image">
+      <img src="c:\Users\ANSH\Pictures\vip photo.jfif" alt="Designer Image">
+    </div>
+  </section>
+  <div class="wave"></div>
+</body>
+</html>
