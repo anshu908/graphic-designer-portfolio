@@ -10,11 +10,7 @@
 🔗 **[GitHub](https://github.com/Ansh)**  
 
 ---
-<p align="center">
-    <img
-        width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=TheChampu&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=TheChampu's+GitHub+Stats"
-    />
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=anshu908)
 
 ### About Me  
 
