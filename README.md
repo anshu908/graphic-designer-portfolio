@@ -1,7 +1,13 @@
 # Hɪ ᴛʜᴇʀᴇ , ɪ'ᴍ Aɴsʜᴜ
 
+Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects.
+
+
+
 
    [![Aɴsʜᴜ](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")
+
+   ## About Me
    
 - 💻 I specialize in web development, machine learning, etc.].
 - 🌱 Currently, I'm learning new skills or technology like bot making on telegram.
