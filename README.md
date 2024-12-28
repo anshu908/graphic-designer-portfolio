@@ -7,13 +7,13 @@
 **Followers:** 10 | **Following:** 0  
 
 🔗 **[YouTube Channel](https://youtube.com/@shivanshdeo)**  
-🔗 **[GitHub](https://github.com/anshu908)**  
+🔗 **[GitHub](https://github.com/Ansh)**  
 
 ---
 
 ### About Me  
 
-- **Name:** Ansh
+- **Name:** Shivansh Deo  
 - **Bio:** Exploring the world of code and creativity! 🌟  
 - **Subject:** Science (PCM)  
 - **Class:** Secret 🤫  
@@ -24,13 +24,8 @@
 
 ### GitHub Stats  
 
-
-
 ![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshu908&show_icons=true&theme=radical)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshu908&layout=compact&theme=radical)  
-
----
-
 
 ---
 
