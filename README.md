@@ -49,19 +49,6 @@ Thank you for visiting my profile. Have a great day! 😄
 
 ### GitHub Stats  
 
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshu908&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshu908&layout=compact&theme=radical)  
-
----
-
-### Visitors  
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ansh)  
-
----
-
-
-
 
 <p align="center">
     <img
@@ -73,6 +60,16 @@ Thank you for visiting my profile. Have a great day! 😄
         src="https://github-readme-streak-stats.herokuapp.com?user=anshu908&theme=tokyonight"
     />
 </p>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshu908&layout=compact&theme=radical)  
+
+---
+
+### Visitors  
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ansh)  
+
+--
 
 
 ### Thank You!  
