@@ -1,6 +1,6 @@
 # ANSH
 
-   [![Ansh](https://github-stats-alpha.vercel.app/api?username=anshu908 "Ansh")](https://github-stats-alpha.vercel.app/api?username=anshu908 "Ansh")
+   [![Aɴsʜᴜ](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")
   
 
 [![Profile Badge](https://img.shields.io/badge/Always%20Smile-%F0%9F%98%8A%20%F0%9F%98%8A%20%F0%9F%98%8A-yellow)](https://github.com/Ansh)
