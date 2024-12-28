@@ -2,6 +2,14 @@
 
 
    [![Aɴsʜᴜ](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")](https://github-stats-alpha.vercel.app/api?username=anshu908 "Aɴsʜᴜ")
+   
+- 💻 I specialize in web development, machine learning, etc.].
+- 🌱 Currently, I'm learning new skills or technology like bot making on telegram.
+- 👯 I'm looking to collaborate on netlify .
+- 💬 Ask me about any topic .
+- 📫 How to reach me: anshppt19@gmail.com.
+- ⚡ Fun fact: coding .
+
   
 
 [![Profile Badge](https://img.shields.io/badge/Always%20Smile-%F0%9F%98%8A%20%F0%9F%98%8A%20%F0%9F%98%8A-yellow)](https://github.com/Ansh)
