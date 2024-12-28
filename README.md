@@ -28,14 +28,22 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ---
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=anshu908)
 
-### About Me  
+## Projects
 
-- **Name:** Shivansh Deo  
-- **Bio:** Exploring the world of code and creativity! 🌟  
-- **Subject:** Science (PCM)  
-- **Class:** Secret 🤫  
-- **From:** India 🇮🇳  
-- **Birthday:** 26 February 🎉  
+Here are some of my favorite projects:
+
+- [Project 1](https://legendary-swan-7ca626.netlify.app/): 𝙼𝚢 𝚏𝚒𝚛𝚜𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝
+- [Project 2](https://mellifluous-dolphin-a34eed.netlify.app/): 𝕄𝕪 𝕗𝕚𝕣𝕤𝕥 𝕡𝕣𝕠𝕛𝕖𝕔𝕥
+- [Project 3](https://github.com/anshu908/project-link): A brief description of what this project does.
+
+## Connect with Me
+
+- [Instagram](https://www.instagram.com/anshopi__/)
+- <a href="https://t.me/ans_X_bot"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
+- [Personal Website](https://mellifluous-dolphin-a34eed.netlify.app/)
+
+Thank you for visiting my profile. Have a great day! 😄
 
 ---
 
