@@ -60,6 +60,21 @@ Thank you for visiting my profile. Have a great day! 😄
 
 ---
 
+
+
+
+<p align="center">
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=anshu908&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=anshu908's+GitHub+Stats"
+    />
+<img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=anshu908&theme=tokyonight"
+    />
+</p>
+
+
 ### Thank You!  
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let's make coding awesome together! 🚀
