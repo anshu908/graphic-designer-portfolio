@@ -1,6 +1,7 @@
 # ANSH
 
-![Banner](https://envs.sh/oBX.jpg?text=Welcome+to+Ansh's+World)  
+   [![Ansh](https://github-stats-alpha.vercel.app/api?username=anshu908 "Ansh")](https://github-stats-alpha.vercel.app/api?username=anshu908 "Ansh")
+  
 
 [![Profile Badge](https://img.shields.io/badge/Always%20Smile-%F0%9F%98%8A%20%F0%9F%98%8A%20%F0%9F%98%8A-yellow)](https://github.com/Ansh)
 
