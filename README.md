@@ -20,10 +20,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 [![Profile Badge](https://img.shields.io/badge/Always%20Smile-%F0%9F%98%8A%20%F0%9F%98%8A%20%F0%9F%98%8A-yellow)](https://github.com/Ansh)
 
-**Followers:** 10 | **Following:** 0  
+**Followers:** 0 | **Following:** 3
 
-🔗 **[YouTube Channel](https://youtube.com/@shivanshdeo)**  
-🔗 **[GitHub](https://github.com/Ansh)**  
+  
+🔗 **[GitHub](https://github.com/anshu908/)**  
 
 ---
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=anshu908)
